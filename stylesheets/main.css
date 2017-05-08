@@ -6,3 +6,11 @@
 .navbar .navbar-collapse {
     text-align: center;
 }
+
+#falco {
+	display: block;
+	margin: auto;
+	width: 200px;
+	height: 200px;
+
+}
